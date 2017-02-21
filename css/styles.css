@@ -1,0 +1,14 @@
+.listStyles {
+  background-color: #aab3c1;
+  border-radius: 5%;
+
+}
+
+.buttonStyles {
+  background-color: black;
+}
+
+ul li {
+  text-align: left;
+  list-style: none;
+}
